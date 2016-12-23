@@ -1,0 +1,9 @@
+{
+  "name": "class",
+  "repo": "rinter-team/class",
+  "description": "Simple JavaScript inheritance implement",
+  "version": "1.0.0",
+  "keywords": ["class", "extend", "inherit"],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
